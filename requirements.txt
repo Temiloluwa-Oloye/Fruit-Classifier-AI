@@ -1,8 +1,8 @@
 streamlit
-tensorflow
+tensorflow==2.15.0
 numpy
 pillow
 scipy
 scikit-learn
 matplotlib
-tf-keras
+h5py
