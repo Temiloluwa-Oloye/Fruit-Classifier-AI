@@ -5,3 +5,4 @@ pillow
 scipy
 scikit-learn
 matplotlib
+tf-keras
