@@ -8,7 +8,7 @@ from PIL import Image
 @st.cache_resource
 def load_model():
     # Update path to look inside the 'models' folder
-    return tf.keras.models.load_model('models/fruit_classifier_model.h5', compile=False)
+    return tf.keras.models.load_model('models/fruit_classifier_model.h5')
 
 @st.cache_data
 @st.cache_data
